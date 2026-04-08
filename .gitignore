@@ -1,0 +1,9 @@
+.env
+data/
+saved_graph/
+__pycache__/
+*.pyc
+.DS_Store
+lib/
+*.zip
+lecture1_graph.html
