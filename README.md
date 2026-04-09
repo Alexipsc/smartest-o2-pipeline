@@ -56,7 +56,7 @@ Open 01_neo4j_connection_test.ipynb and run all cells
 - Pipeline tested on Lecture 1 (MathsComp_Lecture1.pdf)
 - 25 nodes and 32 relationships extracted and stored in AuraDB
 - Natural language querying working end to end
-
+![Lecture 1 Knowledge Graph](images/KnowledgeGraphLecture1.png)
 ## Next Steps
 - Process all 24 lecture documents
 - Extend schema based on O4 ontology work
